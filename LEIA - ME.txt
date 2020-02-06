@@ -1,7 +1,7 @@
 *****
 
 -Importar banco  'banco_tc' da pasta 'Banco' para o phpMyAdmin.
--Qualque problema na conex„o aqui os dados do Banco:
+-Qualque problema na conex√£o aqui os dados do Banco:
 
 $servidor = '127.0.0.1';
 
@@ -13,6 +13,8 @@ $bancoDados = 'banco_tc';
 
 --------------------------
 
-
-
 -Senha para Logar na aba de pesquisa:   Login: admin | Senha: admin 
+
+--------------------------
+
+-Arquivo Principal: 'index.php'
